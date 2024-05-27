@@ -13,7 +13,7 @@ Helm charts for hosting stuff
 Add the repository:
 
 ```bash
-helm repo add hatchcharts https://hatchertechnology.github.io/hatchcharts
+helm repo add HatchTechCharts https://hatchertechnology.github.io/HatchTechCharts
 ```
 
 
