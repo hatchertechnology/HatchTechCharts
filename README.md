@@ -20,3 +20,10 @@ helm repo add HatchTechCharts https://hatchertechnology.github.io/HatchTechChart
 ## Disclaimer
 
 Please do your due-diligence before using this chart for a production deployment.
+
+
+# Charts
+
+## VaultWarden
+
+Refer to the detailed documentation [here](./charts/vaultwarden/README.md).
